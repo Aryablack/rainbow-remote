@@ -1,0 +1,1 @@
+The golden rule of rebasing states that you should not rebase a branch that other people may have based work on.
