@@ -1,1 +1,7 @@
 The golden rule of rebasing states that you should not rebase a branch that other people may have based work on.
+To conclude, you may safely rebase a branch if:
+• You have a local branch that has never been pushed to the remote repository.
+• You have a local branch that you’ve pushed to a remote repository that you’re 100% sure
+nobody has based work on or contributed to.
+That’s it. If there is a possibility that someone else has worked on the branch, then it is recommended
+that you avoid rebasing.
